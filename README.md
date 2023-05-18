@@ -43,7 +43,7 @@ In this part, I modify the problem sets and address the comment provided by Prof
 2.	Include in-text citation and reference whenever introduce terminologies (e.g., for forward induction and Q-learning algorithms).
 3.	Provide the definition of efficiency and fairness when evaluating the game.<br>
 
-- Reversion of problem set 2:<br>
+- Reversion of problem set 2(https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-PS2.git):<br>
 
 1.	Clean all the red logs in the overleaf documents.
 2.	Provide page numbers when citing the book for definition and theorem.
@@ -66,8 +66,14 @@ In this part, I modify the problem sets and address the comment provided by Prof
 - Media appearance
 
 ### More about the Author
-- headshot
-- self-introduction
+- Self Intro
+
+<img src="生活照.png" width="100px">
+
+My name is Wanlin Deng, and you can also call me Iris. I’m from the class of 2025 and my major is political Economy with a track in economics. I’m interested in the interdisciplinary field of computational economics. Now, I’m working on utilizing all the math, econ and coding knowledge to study economics in a more critical way, and hope to become a competitive person who possesses a truly interdisciplinary capability. <br>
+
+Nice to meet you guys here and look forward to our future cooperation!
+
 - Final reflections 
   - intellectual growth
   - professional growth
