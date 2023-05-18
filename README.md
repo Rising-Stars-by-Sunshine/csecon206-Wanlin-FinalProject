@@ -28,16 +28,28 @@ Note: please insert the screenshot of the answers to your research question by C
 
 ## Table of Contents
 
-- model
-- code
-- spotlight
-- more about the author
-- references
+- The polished version of Problem Sets
+- Final project overleaf
+- Final project Google Colab
+- More about the author
+- References
 
-### Model
-- Game Environment
-- Solution Concept
-- Evaluations: e.g. efficiency and fairness
+### The polished version of Problem Sets
+In this part, I modify the problem sets and address the comment provided by Prof.Luyao point by point. Here is the details for the modifications:
+
+Reversion of problem set 1:<br>
+
+1.	Correct the misunderstanding between strategy and strategy profile.
+2.	Include in-text citation and reference whenever introduce terminologies (e.g., for forward induction and Q-learning algorithms).
+3.	Provide the definition of efficiency and fairness when evaluating the game.<br>
+4.	
+Reversion of problem set 2:<br>
+
+For the revision, I address the comment provided by Prof.Luyao point by point:
+1.	Clean all the red logs in the overleaf documents.
+2.	Provide page numbers when citing the book for definition and theorem.
+3.	Embed the complied PDF in the spotlight part for an easy access of my overleaf content to.
+
 
 ### Code
 - Game Environment
