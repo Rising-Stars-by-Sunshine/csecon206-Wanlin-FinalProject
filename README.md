@@ -3,8 +3,7 @@
 - **Author**: Wanlin Deng, Political Economy, Class of 2025, Duke Kunshan University
 - **Instructor**: Prof. Luyao Zhang, Duke Kunshan University
 - **Disclaimer**: Submissions to Final Project for [COMPSCI/ECON 206 Computational Microeconomics, 2023 Spring (Seven Week - Second)](https://ce.pubpub.org/) instructed by Prof. Luyao Zhang at Duke Kunshan University.
-- **Acknowledgments**: [How to Acknowledge?](https://www.scribbr.co.uk/thesis-dissertation/acknowledgements/)
-[notes: please include all professors, students, and staff who have contributed to your completetion of the project.]
+- **Acknowledgments**: I want to thank Professor Luyao Zhang for her inspiring ideas for classifying game players according to their values and designing the payoff matrix accordingly. Thanks Rong Cong for providing peer evaluation that improves my project a lot. And thanks to everyone in the class for the inspiring discussion.
 - **Project Summary**: 
   - [Summarize the Background/Motivation]
   - [Research Questions]
