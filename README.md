@@ -30,7 +30,8 @@ Note: please insert the screenshot of the answers to your research question by C
 ## Table of Contents
 
 - The polished version of Problem Sets
-- Final project overleaf
+- Final poster
+- Final project Overleaf
 - Final project Google Colab
 - More about the author
 - References
@@ -50,15 +51,16 @@ In this part, I modify the problem sets and address the comment provided by Prof
 2.	Provide page numbers when citing the book for definition and theorem.
 3.	Embed the complied PDF in the spotlight part for an easy access of my overleaf content.
 
+### Final Poster 
 
-### Code
+### Final project Overleaf
 - Game Environment
 - Strategic plays
 - Equilibruim Evaluations: e.g. belief, strategy, and payoffs
 - oTree Experimental Code 
 
 
-### Spotlight
+### Final project Google Colab
 - Posters
 - Figures
 - Slides
