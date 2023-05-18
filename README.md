@@ -55,7 +55,7 @@ In this part, I modify the problem sets and address the comment provided by Prof
 <img src="Final poster.png">
 
 ### Final project overleaf
-- The overleaf PDF is uploaded to the spotlight file.
+- The [overleaf PDF](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/fac547ebe87ecdd08a9f3e52da4e0151da394514/spotlight/CSECON206_FinalProject_Spring2023_Wanlin.pdf) is uploaded to the spotlight file.
 - The .zip file of overleaf is uploaded in the code file.
 
 
