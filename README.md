@@ -56,7 +56,7 @@ In this part, I modify the problem sets and address the comment provided by Prof
 
 ### Final project overleaf
 - The [overleaf PDF](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/fac547ebe87ecdd08a9f3e52da4e0151da394514/spotlight/CSECON206_FinalProject_Spring2023_Wanlin.pdf) is uploaded to the spotlight file.
-- The .zip file of overleaf is uploaded in the code file.
+- The [.zip file](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/d802f923a14627c821f69ade31219c46c2608ba0/code/CSECON206_FinalProject_Spring2023-Wanlin.zip) of overleaf is uploaded in the code file.
 
 
 ### Final project Google Colab
@@ -74,7 +74,14 @@ Nice to meet you guys here and look forward to our future cooperation!
 
 - Final reflections 
   - intellectual growth
-  - professional growth
+  - professional growth<br>
+  How do you grow professionally in this course to acquire a combination of skills and create professional profiles? <br>
+  
+  In this course, two of my most important takeaways were becoming proficient in using GitHub and Overleaf. I learned how to effectively upload code from Google Colab to GitHub and run code from others' repositories in my own Google Colab environment. Additionally, I learned how to use a README file to succinctly and effectively explain the contents in repositories. These skills are crucial for me to share the code of my own research on websites publicly and to utilize and learn from open-source code created by others. Proficiency in GitHub enables me to leverage and contribute to online resources, thus enhancing my professional growth.<br>
+  Furthermore, becoming adept at using Overleaf has equipped me with the ability to present my articles in a publishable format. The provided Overleaf templates in the course also taught me how to showcase my personal information in an Overleaf PDF formally. This skill will greatly assist me in creating professional presentations of my working portfolio in the future. 
+Overall, these two skills have transformed me from a college student writing papers in Word documents to a potential talent with solid interdisciplinary research skills.
+
+  
   - living a purposeful life
 
 ### References
