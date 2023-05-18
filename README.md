@@ -37,13 +37,13 @@ Note: please insert the screenshot of the answers to your research question by C
 ### The polished version of Problem Sets
 In this part, I modify the problem sets and address the comment provided by Prof.Luyao point by point. Here is the details for the modifications:<br>
 
-- Reversion of problem set 1:<br>
+- Reversion of [problem set 1](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-PS1.git):<br>
 
 1.	Correct the misunderstanding between strategy and strategy profile.
 2.	Include in-text citation and reference whenever introduce terminologies (e.g., for forward induction and Q-learning algorithms).
 3.	Provide the definition of efficiency and fairness when evaluating the game.<br>
 
-- Reversion of problem set 2(https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-PS2.git):<br>
+- Reversion of [problem set 2](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-PS2.git):<br>
 
 1.	Clean all the red logs in the overleaf documents.
 2.	Provide page numbers when citing the book for definition and theorem.
