@@ -112,6 +112,8 @@ Overall, these two skills have transformed me from a college student writing pap
 
 Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *The Review of Economics and Statistics* 104 (6): 1329–40. https://doi.org/10.1162/rest_a_00990.
 
+Nash, John. 1951. “Non-Cooperative Games.” The Annals of Mathematics 54 (2): 286. https://doi.org/10.2307/1969529.
+
 ```
 @article{levin2022bridging,
   title={Bridging level-k to nash equilibrium},
@@ -124,4 +126,15 @@ Levin, Dan, and Luyao Zhang. 2020. “Bridging Level-K to Nash Equilibrium.” *
   publisher={MIT Press One Rogers Street, Cambridge, MA 02142-1209, USA journals-info~…}
 }
 ```
-
+```
+@article{Nash1951,
+  author  = {Nash, John},
+  title   = {Non-Cooperative Games},
+  journal = {Annals of Mathematics},
+  volume  = {54},
+  number  = {2},
+  pages   = {286-295},
+  year    = {1951},
+  url     = {https://www.jstor.org/stable/1969529}
+}
+```
