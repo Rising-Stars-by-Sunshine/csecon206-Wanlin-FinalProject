@@ -52,6 +52,7 @@ In this part, I modify the problem sets and address the comment provided by Prof
 3.	Embed the complied PDF in the spotlight part for an easy access of my overleaf content.
 
 ### Final Poster 
+<img src="Final poster.png">
 
 ### Final project Overleaf
 - Game Environment
