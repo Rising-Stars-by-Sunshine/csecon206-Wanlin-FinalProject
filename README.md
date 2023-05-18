@@ -60,7 +60,7 @@ In this part, I modify the problem sets and address the comment provided by Prof
 
 
 ### Final project Google Colab
-- The code for the final project is uploaded in the code file.
+- The [code](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/fbfe35cc9c25f061ef268986c8d018f484b9fc7c/code/Game_simulation.ipynb) for the final project is uploaded in the code file.
 
 
 ### More about the Author
