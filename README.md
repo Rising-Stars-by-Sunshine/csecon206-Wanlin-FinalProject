@@ -26,8 +26,8 @@
    
 Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
 - [Screenshot1 of ChatGPT.](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/328b2b70c58d3dac3e43b909b64bab62806ab695/chatgpt1.png) <br>
-  [Screenshot2 of ChatGPT.](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/328b2b70c58d3dac3e43b909b64bab62806ab695/chatgpt1.png) <br>
-  [Screenshot3 of ChatGPT.](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/328b2b70c58d3dac3e43b909b64bab62806ab695/chatgpt1.png) <br>
+  [Screenshot2 of ChatGPT.](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/328b2b70c58d3dac3e43b909b64bab62806ab695/chatgpt1.png](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/4c273e7b833e4219f3f119a3858fcf098ee34260/chatgpt2.png) <br>
+  [Screenshot3 of ChatGPT.](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/328b2b70c58d3dac3e43b909b64bab62806ab695/chatgpt1.png](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/4c273e7b833e4219f3f119a3858fcf098ee34260/chatgpt3.png) <br>
 
 ## Table of Contents
 
