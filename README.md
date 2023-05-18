@@ -51,23 +51,17 @@ In this part, I modify the problem sets and address the comment provided by Prof
 2.	Provide page numbers when citing the book for definition and theorem.
 3.	Embed the complied PDF in the spotlight part for an easy access of my overleaf content.
 
-### Final Poster 
+### Final poster 
 <img src="Final poster.png">
 
-### Final project Overleaf
-- Game Environment
-- Strategic plays
-- Equilibruim Evaluations: e.g. belief, strategy, and payoffs
-- oTree Experimental Code 
+### Final project overleaf
+- The overleaf PDF is uploaded to the spotlight file.
+- The .zip file of overleaf is uploaded in the code file.
 
 
 ### Final project Google Colab
-- Posters
-- Figures
-- Slides
-- Presentations
-- Review articles
-- Media appearance
+- The code for the final project is uploaded in the code file.
+
 
 ### More about the Author
 - Self Intro
