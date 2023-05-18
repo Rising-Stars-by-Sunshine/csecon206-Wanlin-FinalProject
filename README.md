@@ -26,9 +26,7 @@
    
 Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
 - [Screenshot of ChatGPT.] <br>
-<img src="chatgpt1.png"width="500px">
-<img src="chatgpt2.png">
-<img src="chatgpt3.png">
+
 ## Table of Contents
 
 - The polished version of Problem Sets
