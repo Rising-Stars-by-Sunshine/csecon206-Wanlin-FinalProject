@@ -25,7 +25,7 @@
   
    
 Note: please insert the screenshot of the answers to your research question by ChatGPT. The methodology that you use to address the research questions must be more innovative than both the current literature and ChatGPT. 
-- [Screenshot1 of ChatGPT.](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/328b2b70c58d3dac3e43b909b64bab62806ab695/chatgpt1.png) <br>
+- [Screenshot1](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/328b2b70c58d3dac3e43b909b64bab62806ab695/chatgpt1.png) <br>
 - [screenshot2](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/bdc0ff0da8394ce065ad9b7101dddfd7da45dcb5/chatgpt2.png)
 - [screenshot3](https://github.com/Rising-Stars-by-Sunshine/csecon206-Wanlin-FinalProject/blob/bdc0ff0da8394ce065ad9b7101dddfd7da45dcb5/chatgpt3.png)
 
