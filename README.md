@@ -95,6 +95,11 @@ Overall, these two skills have transformed me from a college student writing pap
 
   
   - living a purposeful life
+  
+    **What do you want to be the founding father/mother of? Imagine that one day you win Nobel Prize or Turing Award, what’s your feature sentence? What contribution do you want to make for your own self-fulfillment and for advancing human civilization?**
+      I want to be the founding mother of trust mechanism design. Feature sentence：“Trust on no need to trust：Decentralized mechanism in every field of life.”
+      I am very interested in the issue of trust. In many games studied in game theory, players often fail to achieve maximum benefits due to trust issues. The concept of decentralization has been introduced by existing blockchain technology to address trust problems. However, its current applications mostly revolve around transactions. Therefore, I aim to extend the concepts of decentralization and trustlessness to a broader range of real-life scenarios beyond transactions. I aspire to advance human civilization by promoting the application of existing decentralized and trustless concepts in more daily scenarios. I believe I can achieve my self-fulfillment by dedicating myself to the fields that intrigue me.
+
 
 ### References
 
